@@ -1,0 +1,3 @@
+DDSwordCalculator	KEYWORD1
+convert	KEYWORD2
+ArrayToSingle	KEYWORD2
